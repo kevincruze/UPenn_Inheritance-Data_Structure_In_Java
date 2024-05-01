@@ -1,0 +1,6 @@
+CourseName: MCIT_590
+CourseID: 590
+StudentID: 101
+Name: Kevin
+FavoriteColor: Blue
+FavoriteNumber: 16
